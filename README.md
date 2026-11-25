@@ -5,5 +5,5 @@
 ## Быстрый запуск
 
 ```bash
-bash <(curl -Ls [https://raw.githubusercontent.com/Xunedert/vps-init-script/main/init.sh](https://raw.githubusercontent.com/Xunedert/vps-init-script/main/init.sh))
+bash <(curl -Ls https://raw.githubusercontent.com/Xunedert/vps-init-script/main/init.sh)
 ```
